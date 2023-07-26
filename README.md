@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ahmad-beshr
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👀 I’m interested in Data Engineering 
 - 📫 How to reach me: linked in www.linkedin.com/in/ahmad-beshr-sabbagh
 
 <!---
