@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmad-beshr
-- 👀 I’m interested in Data Engineering 
+- 👀 I’m interested in Data Engineering and Analytics
 - 📫 How to reach me: linked in www.linkedin.com/in/ahmad-beshr-sabbagh
 
 <!---
